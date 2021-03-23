@@ -1,0 +1,6 @@
+install.packages("remotes")
+remotes::install_github("jcheng5/googleCharts")
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("forcats")
+install.packages("readr")
